@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-N0293L2",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/xuNdBZAW3Ie299oaGNIy4lFrr9yUS0fV2hFuOH3v9e6AyTxsA4",
+  "gitHubUrl": "https://github.com/pujangid/CI-CD-Demo",
+  "workFolder": "_work"
+}
