@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>This is demo of CI/CD Pipeline</h1>
+        Hello world
       </header>
     </div>
   );
