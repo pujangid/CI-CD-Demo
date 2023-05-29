@@ -36,3 +36,4 @@ jobs:
         username: hive
         password: ${{secrets.GIT_CPANEL_REACT_PWD}}
         protocol: ftps
+        local-dir: ./build/
